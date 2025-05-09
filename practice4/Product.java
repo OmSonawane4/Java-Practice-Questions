@@ -1,3 +1,6 @@
+// Create a class Product with a method returnThis() that returns the current class object using this. 
+// Call the method and show how chaining works.
+
 package com.practice4;
 
 public class Product {
