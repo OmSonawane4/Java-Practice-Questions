@@ -1,3 +1,5 @@
+// Create a superclass Shape with a method calculateArea(). 
+// Create a subclass Circle that overrides it. Use super to call the Shape version of calculateArea() from Circle.
 package com.practice5;
 
 public class Shape {
